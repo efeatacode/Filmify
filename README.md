@@ -38,3 +38,4 @@ Efe Ata
 
 ```bash
 git clone https://github.com/KULLANICI_ADI/filmify.git
+Terminal üzerinden test commit.
